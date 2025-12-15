@@ -1,0 +1,4 @@
+City: Chennai, Lat: 13.0827, Lon: 80.2707, Place Owner: Terry
+City: Bangalore, Lat: 12.9716, Lon: 77.5946, Place Owner: Terry
+City: Hyderabad, Lat: 17.3850, Lon: 78.4867, Place Owner: Terry
+Total Time (Serial): 2.40 seconds
